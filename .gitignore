@@ -1,0 +1,13 @@
+# Executáveis e Arquivos Objetos
+*.o
+*.exe
+*.out
+*.app
+*.xml
+*.iml
+
+# Arquivos/Pastas do PyCharm/VSCode
+.idea/
+__pycache__/
+.vscode
+venv
